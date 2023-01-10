@@ -83,7 +83,6 @@ ul li {
 .hire_btn a {
     color: white;
     background-color: #378C3F;
-
     margin-right: 15px;
     font-size: 15px;
     padding: 10px 20px 10px 20px;
@@ -283,6 +282,7 @@ ul li {
 .portfolio_images10{
     box-shadow: 0px 10px 25px 0px rgb(0 0 0 / 30%);
     margin: 10px 15px 10px 10px;
+  
 }
 .portfolio_images11{
     box-shadow: 0px 10px 25px 0px rgb(0 0 0 / 30%);
@@ -545,3 +545,19 @@ ul li {
     font-weight: bold;
     padding-bottom: 15px;
 }
+.btn_cv{
+    background-color: #378C3F;
+    margin-right: 15px;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    color: white;
+    margin-top: -10px;
+    
+}
+.btn_cv a{
+    color: white;
+    padding-top: 10px;
+}
+
+
